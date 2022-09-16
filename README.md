@@ -1,19 +1,26 @@
 # Hi there, I'm Rakshith 👋
 
-[![Portfolio](https://img.shields.io/website?label=rakshithp7.github.io&style=for-the-badge&url=https%3A%2F%2Frakshithp7.github.io)][portfolio]
+[![portfolio](https://img.shields.io/website?label=rakshithp7.github.io&style=for-the-badge&url=https%3A%2F%2Frakshithp7.github.io)][portfolio]
 
 - 💼 Software Engineer at Sony India Software Pvt. Ltd.
 - 🌱 My interests lie in Machine Learning and Web/App development 👨🏻‍💻
 - 🥅 2022 Goals: Learn more about web3, contribute more to GitHub repos.
 - ⚡ Fun facts about me: Black belt in Shotokan karate 🥋 | Grade 8 in Piano 🎹
 
-### Connect with me:
+### Connect with me: -->
 
-[![portfolio](./img/globe-light.svg)][portfolio]
-[![portfolio](./img/globe-dark.svg)][portfolio]
-&nbsp;&nbsp;
-[![portfolio](./img/linkedin-light.svg)](https://linkedin.com/in/rakshith-poojary7#gh-light-mode-only)
-[![portfolio](./img/linkedin-dark.svg)](https://linkedin.com/in/rakshith-poojary7#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/globe-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./img/globe-light.svg">
+  <img align="left" alt="Terminal" width="26px" src="./img/globe-light.svg" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/linkedin-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./img/linkedin-light.svg">
+  <img align="left" alt="Terminal" width="26px" src="./img/linkedin-light.svg" />
+</picture>
+
+<br />
 
 ### Languages and Tools:
 
@@ -30,10 +37,16 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png">
+  <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/terminal-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./img/terminal-light.svg">
+  <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+</picture>
 
 <br />
 <br />
@@ -43,4 +56,4 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 [portfolio]: https://rakshithp7.github.io
-[linkedin]: https://www.linkedin.com/in/rakshith-poojary7/
+[linkedin]: https://www.linkedin.com/in/rakshith-poojary7
