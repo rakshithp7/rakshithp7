@@ -9,16 +9,20 @@
 
 ### Connect with me: -->
 
+<a href="https://rakshithp7.github.io">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./img/globe-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./img/globe-light.svg">
-  <img align="left" alt="Terminal" width="26px" src="./img/globe-light.svg" />
+  <img align="left" alt="Portfolio" width="26px" src="./img/globe-light.svg" />
 </picture>
+</a>
+<a href="https://www.linkedin.com/in/rakshith-poojary7">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./img/linkedin-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./img/linkedin-light.svg">
-  <img align="left" alt="Terminal" width="26px" src="./img/linkedin-light.svg" />
+  <img align="left" alt="LinkedIn" width="26px" src="./img/linkedin-light.svg" />
 </picture>
+</a>
 
 <br />
 
