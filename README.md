@@ -5,7 +5,6 @@
 - 💼 Software Engineer at Sony India Software Pvt. Ltd.
 - 🌱 My interests lie in Machine Learning and Web/App development 👨🏻‍💻
 - 🥅 2022 Goals: Learn more about web3, contribute more to GitHub repos.
-- ⚡ Fun facts about me: Black belt in Shotokan karate 🥋 | Grade 8 in Piano 🎹
 
 ### Connect with me: -->
 
