@@ -4,7 +4,7 @@
 
 - 💼 Software Engineer at Sony India Software Pvt. Ltd.
 - 🌱 My interests lie in Machine Learning and Web/App development 👨🏻‍💻
-- 🥅 2022 Goals: Learn more about web3, contribute more to GitHub repos.
+- 🥅 2023 Goals: Learn more about web3, contribute more to GitHub repos.
 
 ### Connect with me: -->
 
