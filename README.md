@@ -2,7 +2,7 @@
 
 [![portfolio](https://img.shields.io/website?label=rakshithp7.github.io&style=for-the-badge&url=https%3A%2F%2Frakshithp7.github.io)][portfolio]
 
-- 💼 Software Engineer at Sony India Software Pvt. Ltd.
+- 📚 Pursuing a Masters degree in Computer Science at USF
 - 🌱 My interests lie in Machine Learning and Web/App development 👨🏻‍💻
 - 🥅 2023 Goals: Learn more about web3, contribute more to GitHub repos.
 
