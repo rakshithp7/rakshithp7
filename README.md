@@ -2,8 +2,8 @@
 
 [![portfolio](https://img.shields.io/website?label=rakshithp7.github.io&style=for-the-badge&url=https%3A%2F%2Frakshithp7.github.io)][portfolio]
 
-- 📚 Pursuing a Masters degree in Computer Science at the University of South Florida
-- 🌱 My interests lie in Web/App development 👨🏻‍💻 and Machine Learning 🤖
+- 📚 Pursuing a Master's degree in Computer Science at the University of South Florida
+- 🌱 My interests lie in Web/App development 👨🏻‍💻 and Automation & DevOps 🤖
 - 🎲 I love to solve problems and learn something new while I'm at it
 
 <br />
