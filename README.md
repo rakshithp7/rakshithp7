@@ -1,6 +1,6 @@
 # Hi there, I'm Rakshith 👋
 
-[![portfolio](https://img.shields.io/website?label=rpoojary.codes&style=for-the-badge&url=https%3A%2F%2Frpoojary.codes)][portfolio]
+[![portfolio](https://img.shields.io/website?label=rpoojary.codes&style=for-the-badge&url=https%3A%2F%2Frpoojary.codes)](https://rpoojary.codes)
 
 - 📚 Pursuing a Master's degree in Computer Science at the University of South Florida
 - 🌱 My interests lie in Web/App development 👨🏻‍💻 and Automation & DevOps 🤖
