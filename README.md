@@ -3,7 +3,7 @@
 [![portfolio](https://img.shields.io/website?label=rpoojary.codes&style=for-the-badge&url=https%3A%2F%2Frpoojary.codes)](https://rpoojary.codes)
 
 - 📚 Recent graduate with a Master's degree in Computer Science from the University of South Florida
-- 🌱 My interests lie in Web/App development 👨🏻‍💻 and Automation & DevOps 🤖
+- 🌱 My interests lie in Web/App development 👨🏻‍💻, Virtual Reality and Automation & DevOps 🤖
 - 🎲 I love to solve problems and learn something new while I'm at it
 
 <br />
