@@ -63,8 +63,9 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshithp7&show_icons=true&locale=en&layout=compact" alt="rakshithp7" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshithp7&show_icons=true&locale=en" alt="rakshithp7" />
+  <img src="https://github-readme-stats-seven-ashen-50.vercel.app/api/top-langs?username=rakshithp7&&show_icons=true&theme=tokyonight&locale=en&layout=compact" align="center" alt="rakshithp7" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-seven-ashen-50.vercel.app/api?username=rakshithp7&show_icons=true&theme=radical&locale=en" align="center" alt="rakshithp7" />
 </div>
 
 [portfolio]: https://rakshithp7.github.io
