@@ -1,6 +1,6 @@
 # Hi there, I'm Rakshith 👋
 
-[![portfolio](https://img.shields.io/website?label=rpoojary.codes&style=for-the-badge&url=https%3A%2F%2Frpoojary.codes)](https://rpoojary.codes)
+[![portfolio](https://img.shields.io/website?label=rpoojary.com&style=for-the-badge&url=https%3A%2F%2Frpoojary.com)](https://rpoojary.com)
 
 - 📚 Recent graduate with a Master's degree in Computer Science from the University of South Florida
 - 🌱 My interests lie in Web/App development, Virtual Reality and Automation & DevOps <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="25">
