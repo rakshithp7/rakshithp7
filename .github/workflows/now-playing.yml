@@ -1,0 +1,18 @@
+name: Update now-playing card
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: rakshithp7/ytmusic-display-widget@v1
+        with:
+          tracks: |
+            https://music.youtube.com/watch?v=4NRXx6U8ABQ
+          size: banner
+          art-style: vinyl
