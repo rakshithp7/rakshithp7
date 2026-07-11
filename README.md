@@ -2,6 +2,8 @@
 
 [![portfolio](https://img.shields.io/website?label=rpoojary.com&style=for-the-badge&url=https%3A%2F%2Frpoojary.com)](https://rpoojary.com)
 
+[![now playing](now-playing.svg)](https://music.youtube.com/watch?v=4NRXx6U8ABQ)
+
 - 📚 Recent graduate with a Master's degree in Computer Science from the University of South Florida
 - 🌱 My interests lie in Web/App development, Virtual Reality and Automation & DevOps <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="25">
 - 🎲 I love to solve problems and learn something new while I'm at it. <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
