@@ -68,4 +68,12 @@
   <img src="https://github-stats-extended-nine.vercel.app/api?username=rakshithp7&show_icons=true&theme=radical&locale=en" align="center" alt="rakshithp7" />
 </div>
 
+<br />
+
+<div align="center">
+
+[![now playing](now-playing.svg)](https://music.youtube.com/watch?v=9kT0oLBPiOw)
+
+</div>
+
 [portfolio]: https://rakshithp7.github.io
