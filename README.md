@@ -74,7 +74,7 @@
 
 [![now playing](now-playing.svg)](https://music.youtube.com/watch?v=9kT0oLBPiOw)
 
-*Want this on your own profile? [Check it out here](https://github.com/rakshithp7/ytmusic-display-widget).*
+<sub><i>Want a now-playing widget like this on your profile? <a href="https://github.com/rakshithp7/ytmusic-display-widget">Check it out here</a>.</i></sub>
 
 </div>
 
