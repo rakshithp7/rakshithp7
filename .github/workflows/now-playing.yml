@@ -12,5 +12,5 @@ jobs:
         with:
           tracks: |
             https://music.youtube.com/watch?v=9kT0oLBPiOw
-          size: banner
-          art-style: vinyl
+          size: compact
+          art-style: vinyl-sleeve
